@@ -2,7 +2,7 @@
 <br>
 <div align="center">
     <img src="https://img.shields.io/badge/Framework-React-success">
-    <img src="https://img.shields.io/badge/%3C%3E-javascript-yellow">
+    <img src="https://img.shields.io/badge/%3C%3E-typescript-cyan">
     <img src="https://img.shields.io/badge/CSS-StyledComponents-blue">
 </div>
 <br>
